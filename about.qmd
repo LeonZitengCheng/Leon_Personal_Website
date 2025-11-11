@@ -19,3 +19,7 @@ About this site
 ```{r}
 "test 2"
 ```
+
+```{r}
+"about check"
+```
