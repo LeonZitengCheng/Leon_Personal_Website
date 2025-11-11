@@ -19,3 +19,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 "Hello"
 ```
+
+```{r}
+"6th check"
+```
