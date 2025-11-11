@@ -11,3 +11,11 @@ About this site
 ```{r}
 "hello, Leon here in the about"
 ```
+
+```{r}
+"test 1"
+```
+
+```{r}
+"test 2"
+```
