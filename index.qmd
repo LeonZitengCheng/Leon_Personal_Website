@@ -21,3 +21,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 "7th check"
 ```
+
+```{r}
+"change without 'Render' it "
+```
