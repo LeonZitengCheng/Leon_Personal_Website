@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Leon Cheng’s wedsite",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\"hello, I am Leon Cheng\"\n\n[1] \"hello, I am Leon Cheng\"\n\n\n\n\"home check,....\"\n\n[1] \"home check,....\"\n\n\"Hello\"\n\n[1] \"Hello\"\n\n\"7th check\"\n\n[1] \"7th check\""
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\"hello, I am Leon Cheng\"\n\n[1] \"hello, I am Leon Cheng\"\n\n\n\n\"home check,....\"\n\n[1] \"home check,....\"\n\n\"Hello\"\n\n[1] \"Hello\"\n\n\"7th check\"\n\n[1] \"7th check\"\n\n\n\n\"change without 'Render' it \"\n\n[1] \"change without 'Render' it \""
   }
 ]
