@@ -1,0 +1,16 @@
+---
+title: "Election Outcomes"
+# format: pdf
+image: images/election.png
+subtitle:  Election Outcomes 
+---
+
+## Classification of U.S. County Election Outcomes
+
+-   Developed models to classify the 2020 U.S. presidential winner (Biden vs. Trump) for 3,111 counties using demographic and education predictors.
+
+-   Engineered features, explored interactions, and implemented data preprocessing tailored to highly imbalanced classes.Built supervised learning models to predict log-total Amazon order amounts using a dataset of \~5,000 customers across states and months.
+
+-   Evaluated and tuned multiple classification methods (logistic regression, random forest, SVM, XGBoost, neural networks) using cross-validation, achieving high Accuracy/AUC on the private Kaggle leaderboard.
+
+-   Delivered a reproducible R workflow and concise technical report summarizing methodology, model comparison, and practical insights.

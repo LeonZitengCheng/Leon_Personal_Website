@@ -1,0 +1,12 @@
+---
+title: "101A_project"
+# format: pdf
+image: images/Glucose.png
+subtitle:  Glucose Levels Modeling
+---
+
+## Predictive Modeling of Glucose Levels in Diabetic Patients
+
+-   Conducted statistical analysis using a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases to examine how factors of body influence blood glucose levels.
+
+-   Selected the best model that best predict Glucose Levels based on diagnostic plots and significance testing

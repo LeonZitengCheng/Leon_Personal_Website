@@ -1,0 +1,14 @@
+---
+title: "DataFest_project"
+# format: pdf
+image: images/UCLA_DataFest.png
+subtitle:  UCLA Spring DataFest
+---
+
+## Savills Commercial Real Estate Market Analysis
+
+-   Built a multiple linear regression model to quantify the impact of economic indicators and lease characteristics on market growth and leasing activity.
+
+-   Incorporated qualitative insights (e.g., political, social factors) to complement the quantitative model and propose actionable recommendations to maximize return on investment.
+
+-   Delivered data-driven strategic guidance to Savills on high-opportunity regions despite limitations in post-project impact assessment due to competition constraints.

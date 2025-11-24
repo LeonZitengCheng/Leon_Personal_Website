@@ -7,23 +7,3 @@ About this site
 ```{r}
 1 + 1
 ```
-
-```{r}
-"hello, Leon here in the about"
-```
-
-```{r}
-"test 1"
-```
-
-```{r}
-"test 2"
-```
-
-```{r}
-"about check"
-```
-
-```{r}
-"4th check"
-```

@@ -1,0 +1,16 @@
+---
+title: "101C_project"
+# format: pdf
+image: images/101C_image.png
+subtitle: Amazon Order Totals
+---
+
+## Regression Modeling of Amazon Order Totals
+
+-   Built supervised learning models to predict log-total Amazon order amounts using a dataset of \~5,000 customers across states and months.
+
+-   Performed extensive feature engineering, preprocessing, and EDA (8+ visualizations) to handle categorical variables, missing data, and seasonality.
+
+-   Compared and tuned 5+ regression algorithms (linear regression, random forest, XGBoost, etc.) with v-fold cross-validation, selecting the best model based on RMSE.
+
+-   Produced a fully reproducible R pipeline with annotated scripts and a technical report detailing diagnostics, limitations, and potential improvements.

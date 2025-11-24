@@ -1,0 +1,14 @@
+---
+title: "102B_project"
+# format: pdf
+image: images/102B_image.png
+subtitle:  Machine learning
+---
+
+## Federated Lasso Regression with Coordinate Descent
+
+-   Implemented from scratch a coordinate descent algorithm for Lasso regression in R, including custom soft-thresholding and convergence criteria.
+
+-   Tuned the regularization parameter λ via validation loss across three independent datasets (600 predictors each); reported non-zero coefficient indices and test loss for each model.
+
+-   Designed a federated learning framework where three data owners iteratively performed local Lasso updates and shared only model coefficients with a trusted aggregator, ensuring data privacy.

@@ -4,13 +4,104 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\"hello, Leon here in the about\"\n\n[1] \"hello, Leon here in the about\"\n\n\n\n\"test 1\"\n\n[1] \"test 1\"\n\n\n\n\"test 2\"\n\n[1] \"test 2\"\n\n\n\n\"about check\"\n\n[1] \"about check\"\n\n\n\n\"4th check\"\n\n[1] \"4th check\""
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "",
+    "section": "",
+    "text": "Text above\n\n\n\ntext below\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n101A_project\n\n\nGlucose Levels Modeling\n\n\n\n\n\n\n\n\n\n\n\n\n101B_project\n\n\nMemory Study\n\n\n\n\n\n\n\n\n\n\n\n\n101C_project\n\n\nAmazon Order Totals\n\n\n\n\n\n\n\n\n\n\n\n\n102B_project\n\n\nMachine learning\n\n\n\n\n\n\n\n\n\n\n\n\nElection Outcomes\n\n\nElection Outcomes\n\n\n\n\n\n\n\n\n\n\n\n\nDataFest_project\n\n\nUCLA Spring DataFest\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/102B_projects.html",
+    "href": "projects/102B_projects.html",
+    "title": "102B_project",
+    "section": "",
+    "text": "Implemented from scratch a coordinate descent algorithm for Lasso regression in R, including custom soft-thresholding and convergence criteria.\nTuned the regularization parameter λ via validation loss across three independent datasets (600 predictors each); reported non-zero coefficient indices and test loss for each model.\nDesigned a federated learning framework where three data owners iteratively performed local Lasso updates and shared only model coefficients with a trusted aggregator, ensuring data privacy."
+  },
+  {
+    "objectID": "projects/102B_projects.html#federated-lasso-regression-with-coordinate-descent",
+    "href": "projects/102B_projects.html#federated-lasso-regression-with-coordinate-descent",
+    "title": "102B_project",
+    "section": "",
+    "text": "Implemented from scratch a coordinate descent algorithm for Lasso regression in R, including custom soft-thresholding and convergence criteria.\nTuned the regularization parameter λ via validation loss across three independent datasets (600 predictors each); reported non-zero coefficient indices and test loss for each model.\nDesigned a federated learning framework where three data owners iteratively performed local Lasso updates and shared only model coefficients with a trusted aggregator, ensuring data privacy."
+  },
+  {
+    "objectID": "projects/UCLA_DataFest.html",
+    "href": "projects/UCLA_DataFest.html",
+    "title": "DataFest_project",
+    "section": "",
+    "text": "Built a multiple linear regression model to quantify the impact of economic indicators and lease characteristics on market growth and leasing activity.\nIncorporated qualitative insights (e.g., political, social factors) to complement the quantitative model and propose actionable recommendations to maximize return on investment.\nDelivered data-driven strategic guidance to Savills on high-opportunity regions despite limitations in post-project impact assessment due to competition constraints."
+  },
+  {
+    "objectID": "projects/UCLA_DataFest.html#savills-commercial-real-estate-market-analysis",
+    "href": "projects/UCLA_DataFest.html#savills-commercial-real-estate-market-analysis",
+    "title": "DataFest_project",
+    "section": "",
+    "text": "Built a multiple linear regression model to quantify the impact of economic indicators and lease characteristics on market growth and leasing activity.\nIncorporated qualitative insights (e.g., political, social factors) to complement the quantitative model and propose actionable recommendations to maximize return on investment.\nDelivered data-driven strategic guidance to Savills on high-opportunity regions despite limitations in post-project impact assessment due to competition constraints."
+  },
+  {
+    "objectID": "projects/101C_project.html",
+    "href": "projects/101C_project.html",
+    "title": "101C_project",
+    "section": "",
+    "text": "Built supervised learning models to predict log-total Amazon order amounts using a dataset of ~5,000 customers across states and months.\nPerformed extensive feature engineering, preprocessing, and EDA (8+ visualizations) to handle categorical variables, missing data, and seasonality.\nCompared and tuned 5+ regression algorithms (linear regression, random forest, XGBoost, etc.) with v-fold cross-validation, selecting the best model based on RMSE.\nProduced a fully reproducible R pipeline with annotated scripts and a technical report detailing diagnostics, limitations, and potential improvements."
+  },
+  {
+    "objectID": "projects/101C_project.html#regression-modeling-of-amazon-order-totals",
+    "href": "projects/101C_project.html#regression-modeling-of-amazon-order-totals",
+    "title": "101C_project",
+    "section": "",
+    "text": "Built supervised learning models to predict log-total Amazon order amounts using a dataset of ~5,000 customers across states and months.\nPerformed extensive feature engineering, preprocessing, and EDA (8+ visualizations) to handle categorical variables, missing data, and seasonality.\nCompared and tuned 5+ regression algorithms (linear regression, random forest, XGBoost, etc.) with v-fold cross-validation, selecting the best model based on RMSE.\nProduced a fully reproducible R pipeline with annotated scripts and a technical report detailing diagnostics, limitations, and potential improvements."
+  },
+  {
+    "objectID": "projects/Election_Outcomes_project.html",
+    "href": "projects/Election_Outcomes_project.html",
+    "title": "Election Outcomes",
+    "section": "",
+    "text": "Developed models to classify the 2020 U.S. presidential winner (Biden vs. Trump) for 3,111 counties using demographic and education predictors.\nEngineered features, explored interactions, and implemented data preprocessing tailored to highly imbalanced classes.Built supervised learning models to predict log-total Amazon order amounts using a dataset of ~5,000 customers across states and months.\nEvaluated and tuned multiple classification methods (logistic regression, random forest, SVM, XGBoost, neural networks) using cross-validation, achieving high Accuracy/AUC on the private Kaggle leaderboard.\nDelivered a reproducible R workflow and concise technical report summarizing methodology, model comparison, and practical insights."
+  },
+  {
+    "objectID": "projects/Election_Outcomes_project.html#classification-of-u.s.-county-election-outcomes",
+    "href": "projects/Election_Outcomes_project.html#classification-of-u.s.-county-election-outcomes",
+    "title": "Election Outcomes",
+    "section": "",
+    "text": "Developed models to classify the 2020 U.S. presidential winner (Biden vs. Trump) for 3,111 counties using demographic and education predictors.\nEngineered features, explored interactions, and implemented data preprocessing tailored to highly imbalanced classes.Built supervised learning models to predict log-total Amazon order amounts using a dataset of ~5,000 customers across states and months.\nEvaluated and tuned multiple classification methods (logistic regression, random forest, SVM, XGBoost, neural networks) using cross-validation, achieving high Accuracy/AUC on the private Kaggle leaderboard.\nDelivered a reproducible R workflow and concise technical report summarizing methodology, model comparison, and practical insights."
+  },
+  {
+    "objectID": "projects/101B_project.html",
+    "href": "projects/101B_project.html",
+    "title": "101B_project",
+    "section": "",
+    "text": "Designed and conducted a 2×3 factorial experiment to study how beverage temperature (cold milk, warm milk, hot tea) and emotional state (happy, neutral, sad) affect short-term memory performance.\nImplemented a Python-based random sampling scheme and determined required sample size (power = 0.8, α = 0.05, effect size = 0.25) using G*Power.\nCollected and analyzed data from 261 participants; applied two-way ANOVA and Tukey HSD post-hoc tests in R to assess main and interaction effects.\nVerified model assumptions via residual and Q–Q plots; interpreted that emotional state had a statistically significant but distributed effect on memory performance"
+  },
+  {
+    "objectID": "projects/101B_project.html#memory-study-experimental-design-and-anova-analysis",
+    "href": "projects/101B_project.html#memory-study-experimental-design-and-anova-analysis",
+    "title": "101B_project",
+    "section": "",
+    "text": "Designed and conducted a 2×3 factorial experiment to study how beverage temperature (cold milk, warm milk, hot tea) and emotional state (happy, neutral, sad) affect short-term memory performance.\nImplemented a Python-based random sampling scheme and determined required sample size (power = 0.8, α = 0.05, effect size = 0.25) using G*Power.\nCollected and analyzed data from 261 participants; applied two-way ANOVA and Tukey HSD post-hoc tests in R to assess main and interaction effects.\nVerified model assumptions via residual and Q–Q plots; interpreted that emotional state had a statistically significant but distributed effect on memory performance"
+  },
+  {
+    "objectID": "projects/101A_project.html",
+    "href": "projects/101A_project.html",
+    "title": "101A_project",
+    "section": "",
+    "text": "Conducted statistical analysis using a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases to examine how factors of body influence blood glucose levels.\nSelected the best model that best predict Glucose Levels based on diagnostic plots and significance testing"
+  },
+  {
+    "objectID": "projects/101A_project.html#predictive-modeling-of-glucose-levels-in-diabetic-patients",
+    "href": "projects/101A_project.html#predictive-modeling-of-glucose-levels-in-diabetic-patients",
+    "title": "101A_project",
+    "section": "",
+    "text": "Conducted statistical analysis using a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases to examine how factors of body influence blood glucose levels.\nSelected the best model that best predict Glucose Levels based on diagnostic plots and significance testing"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Leon Cheng’s wedsite",
+    "title": "Ziteng Cheng",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\"hello, I am Leon Cheng\"\n\n[1] \"hello, I am Leon Cheng\"\n\n\n\n\"home check,....\"\n\n[1] \"home check,....\"\n\n\"Hello\"\n\n[1] \"Hello\"\n\n\"7th check\"\n\n[1] \"7th check\"\n\n\n\n\"change without 'Render' it \"\n\n[1] \"change without 'Render' it \""
+    "text": "University of California, Los Angeles (UCLA) — Los Angeles, CA B.S. in Statistics & Data Science • Expected Jun 2026\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

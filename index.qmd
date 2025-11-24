@@ -1,27 +1,24 @@
 ---
-title: "Leon Cheng's wedsite"
+title: "Ziteng Cheng"
+about:
+  template: trestles
+  image: LeonCheng.jpg
+  image-width: 15em
+  image-shape: rounded
+  links:
+    - icon: github
+      text: Github
+      url: "https://github.com/LeonZitengCheng"
+    - text: Email
+      url: "mailto:zitengcheng3@gmail.com"
+      icon: inbox-fill
+    - text: CV
+      url: "Ziteng_Cheng_CV.pdf"
+    - text: LinkedIn
+      icon: linkedin
+      url: "linkedin.com/in/ziteng-cheng-0b2a6627a"
 ---
 
-This is a Quarto website.
+**University of California, Los Angeles (UCLA)** — Los Angeles, CA B.S. in Statistics & Data Science • Expected Jun 2026
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-```{r}
-"hello, I am Leon Cheng"
-```
-
-```{r}
-"home check,...."
-
-"Hello"
-
-"7th check"
-```
-
-```{r}
-"change without 'Render' it "
-```

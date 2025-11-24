@@ -1,5 +1,6 @@
 project:
   type: website
+  # output-dir: docs
 
 website:
   # title: "Leon Cheng's wedsite"
@@ -7,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: projects.qmd
+        text: Projects        
       - about.qmd
 
 format:
