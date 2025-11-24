@@ -4,13 +4,20 @@ project:
 
 website:
   # title: "Leon Cheng's wedsite"
+  reader-mode: true
   navbar:
+    title: false
+    background: white
+    foreground: "gray-800"
     left:
       - href: index.qmd
         text: Home
       - href: projects.qmd
         text: Projects        
       - about.qmd
+
+  page-footer:
+    right: "&copy; 2025, Ziteng Cheng"
 
 format:
   html:
