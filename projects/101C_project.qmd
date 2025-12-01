@@ -1,6 +1,10 @@
 ---
 title: "101C_project"
 # format: pdf
+
+page-layout: article
+toc: false 
+
 image: images/101C_image.png
 subtitle: Amazon Order Totals
 ---

@@ -7,11 +7,25 @@
     "text": "I’m a B.S. student in Statistics & Data Science at UCLA (’26).\nI like building tidy, reproducible workflows in R, Python, and SQL, and turning messy data into clear decisions.\n\n\n\nR: tidyverse, ggplot2, dplyr, tidyr, broom, readr, quarto, rmarkdown\nModeling: linear/GLM, ANOVA, experimental design, regularization, CV\nData: cleaning, wrangling, reproducible pipelines, EDA\nViz & Tools: ggplot2, Tableau, Git/GitHub, Netlify, VS Code/RStudio\nCurrently learning: mixed models, A/B testing design, Shiny\n\n\n\n\n\nEmail: zitengcheng3@gmail.com\nGitHub: @LeonZitengCheng\nLinkedIn: /in/ziteng-cheng-0b2a6627a\n\nI’m looking for Summer ’26 internships and full time jobs in data/analytics. Happy to chat!"
   },
   {
+    "objectID": "about.html#skills-at-a-glance",
+    "href": "about.html#skills-at-a-glance",
+    "title": "About",
+    "section": "",
+    "text": "R: tidyverse, ggplot2, dplyr, tidyr, broom, readr, quarto, rmarkdown\nModeling: linear/GLM, ANOVA, experimental design, regularization, CV\nData: cleaning, wrangling, reproducible pipelines, EDA\nViz & Tools: ggplot2, Tableau, Git/GitHub, Netlify, VS Code/RStudio\nCurrently learning: mixed models, A/B testing design, Shiny"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "",
+    "text": "Email: zitengcheng3@gmail.com\nGitHub: @LeonZitengCheng\nLinkedIn: /in/ziteng-cheng-0b2a6627a\n\nI’m looking for Summer ’26 internships and full time jobs in data/analytics. Happy to chat!"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "",
     "section": "",
-    "text": "Text above\n\n\n\ntext below\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n101A_project\n\n\nGlucose Levels Modeling\n\n\n\n\n\n\n\n\n\n\n\n\n101B_project\n\n\nMemory Study\n\n\n\n\n\n\n\n\n\n\n\n\n101C_project\n\n\nAmazon Order Totals\n\n\n\n\n\n\n\n\n\n\n\n\n102B_project\n\n\nMachine learning\n\n\n\n\n\n\n\n\n\n\n\n\nElection Outcomes\n\n\nElection Outcomes\n\n\n\n\n\n\n\n\n\n\n\n\nDataFest_project\n\n\nUCLA Spring DataFest\n\n\n\n\n\nNo matching items"
+    "text": "101A_project\n\n\nGlucose Levels Modeling\n\n\n\n\n\n\n\n\n\n\n\n\n101B_project\n\n\nMemory Study\n\n\n\n\n\n\n\n\n\n\n\n\n101C_project\n\n\nAmazon Order Totals\n\n\n\n\n\n\n\n\n\n\n\n\n102B_project\n\n\nMachine learning\n\n\n\n\n\n\n\n\n\n\n\n\nElection Outcomes\n\n\nElection Outcomes\n\n\n\n\n\n\n\n\n\n\n\n\nDataFest_project\n\n\nUCLA Spring DataFest\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/102B_projects.html",
@@ -102,20 +116,6 @@
     "href": "index.html",
     "title": "Ziteng Cheng",
     "section": "",
-    "text": "I’m a B.S. student in Statistics & Data Science at UCLA (’26).\nI like building tidy, reproducible workflows in R and SQL, and turning messy data into clear decisions.\nThis year I’m focusing on experimental design and optimization. Previously I built occupancy dashboards at Occuspace.\nYou can learn more from my CV or connect on LinkedIn."
-  },
-  {
-    "objectID": "about.html#skills-at-a-glance",
-    "href": "about.html#skills-at-a-glance",
-    "title": "About",
-    "section": "",
-    "text": "R: tidyverse, ggplot2, dplyr, tidyr, broom, readr, quarto, rmarkdown\nModeling: linear/GLM, ANOVA, experimental design, regularization, CV\nData: cleaning, wrangling, reproducible pipelines, EDA\nViz & Tools: ggplot2, Tableau, Git/GitHub, Netlify, VS Code/RStudio\nCurrently learning: mixed models, A/B testing design, Shiny"
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "",
-    "text": "Email: zitengcheng3@gmail.com\nGitHub: @LeonZitengCheng\nLinkedIn: /in/ziteng-cheng-0b2a6627a\n\nI’m looking for Summer ’26 internships and full time jobs in data/analytics. Happy to chat!"
+    "text": "I’m a B.S. student in Statistics & Data Science at UCLA (’26).\nI like building tidy, reproducible workflows in R and SQL, and turning messy data into clear decisions.\nYou can learn more from my CV or connect on LinkedIn."
   }
 ]

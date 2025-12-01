@@ -1,6 +1,9 @@
 ---
 title: "101A_project"
 # format: pdf
+page-layout: article
+toc: false 
+
 image: images/Glucose.png
 subtitle:  Glucose Levels Modeling
 ---

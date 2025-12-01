@@ -1,6 +1,10 @@
 ---
 title: "Election Outcomes"
 # format: pdf
+
+page-layout: article
+toc: false 
+
 image: images/election.png
 subtitle:  Election Outcomes 
 ---

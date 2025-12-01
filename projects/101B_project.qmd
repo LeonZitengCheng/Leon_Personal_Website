@@ -1,16 +1,25 @@
 ---
 title: "101B_project"
 # format: pdf
+
+
+page-layout: article
+toc: false 
+
+
+
 image: images/101B_image.png
 subtitle:  Memory Study 
 ---
 
 ## **Memory Study** **— Experimental Design and ANOVA Analysis**
 
--   Designed and conducted a **2×3 factorial experiment** to study how **beverage temperature** (cold milk, warm milk, hot tea) and **emotional state** (happy, neutral, sad) affect short-term memory performance.
+- Designed and conducted a **2×3 factorial experiment** to study how **beverage temperature** (cold milk, warm milk, hot tea) and **emotional state** (happy, neutral, sad) affect short-term memory performance.
 
--   Implemented a **Python-based random sampling scheme** and determined required sample size (power = 0.8, α = 0.05, effect size = 0.25) using **G\*Power.**
+- Implemented a **Python-based random sampling scheme** and determined required sample size (power = 0.8, α = 0.05, effect size = 0.25) using **G\*Power.**
 
--   Collected and analyzed data from 261 participants; applied **two-way ANOVA** and **Tukey HSD post-hoc tests** in R to assess main and interaction effects.
+- Collected and analyzed data from 261 participants; applied **two-way ANOVA** and **Tukey HSD post-hoc tests** in R to assess main and interaction effects.
 
--   Verified model assumptions via **residual and Q–Q plots**; interpreted that **emotional state had a statistically significant but distributed effect** on memory performance
+- Verified model assumptions via **residual and Q–Q plots**; interpreted that **emotional state had a statistically significant but distributed effect** on memory performance
+
+### Here is the presentation: [click to view](/files/101B_presentation.pdf){target="_blank"}

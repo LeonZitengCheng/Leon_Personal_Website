@@ -184,11 +184,9 @@ window.Quarto = {
 
 
 
-<p>Text above</p>
 <div class="project-listing">
 
 </div>
-<p>text below</p>
 
 
 
@@ -201,7 +199,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1763964069228" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1764571970404" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
 <a href="./projects/101A_project.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -217,7 +215,7 @@ Glucose Levels Modeling
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1763964129914" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1764571826157" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
 <a href="./projects/101B_project.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -233,7 +231,7 @@ Memory Study
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1763964157013" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1764571971920" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
 <a href="./projects/101C_project.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -249,7 +247,7 @@ Amazon Order Totals
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1763964244356" data-listing-reading-time-sort="1" data-listing-word-count-sort="76">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1764572235054" data-listing-reading-time-sort="1" data-listing-word-count-sort="76">
 <a href="./projects/102B_projects.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -265,7 +263,7 @@ Machine learning
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1763964184456" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1764571980387" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
 <a href="./projects/Election_Outcomes_project.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -281,7 +279,7 @@ Election Outcomes
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1763963969850" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1764571985252" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
 <a href="./projects/UCLA_DataFest.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -373,7 +371,7 @@ UCLA Spring DataFest
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/leoncheng\.netlify\.app");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

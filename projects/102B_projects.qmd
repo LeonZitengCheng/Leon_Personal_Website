@@ -1,6 +1,10 @@
 ---
 title: "102B_project"
 # format: pdf
+
+page-layout: article
+toc: false 
+
 image: images/102B_image.png
 subtitle:  Machine learning
 ---

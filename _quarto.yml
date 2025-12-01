@@ -1,7 +1,8 @@
 project:
   type: website
   # output-dir: docs
-  resources: Ziteng_Cheng_CV.pdf
+  resources: 
+    - files/**  # Ziteng_Cheng_CV.pdf
 
 website:
   # title: "Leon Cheng's wedsite"

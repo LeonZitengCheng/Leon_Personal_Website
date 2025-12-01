@@ -13,7 +13,7 @@ about:
       url: "mailto:zitengcheng3@gmail.com"
       icon: inbox-fill
     - text: CV
-      url: "Ziteng_Cheng_CV.pdf"
+      url: "/files/Ziteng_Cheng_CV.pdf"
     - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/ziteng-cheng-0b2a6627a/"
@@ -26,5 +26,5 @@ I’m a **B.S. student in Statistics & Data Science at *UCLA* (’26)**.
 I like building tidy, reproducible workflows in **R** and **SQL**, and turning messy data into clear decisions.
 
 
-You can learn more from my [CV](/Ziteng_Cheng_CV.pdf) or connect on [LinkedIn](https://www.linkedin.com/in/ziteng-cheng-0b2a6627a/).
+You can learn more from my [CV](/files/Ziteng_Cheng_CV.pdf) or connect on [LinkedIn](https://www.linkedin.com/in/ziteng-cheng-0b2a6627a/).
 

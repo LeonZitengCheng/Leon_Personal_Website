@@ -1,6 +1,10 @@
 ---
 title: "DataFest_project"
 # format: pdf
+
+page-layout: article
+toc: false 
+
 image: images/UCLA_DataFest.png
 subtitle:  UCLA Spring DataFest
 ---
