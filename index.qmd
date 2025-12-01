@@ -2,7 +2,7 @@
 title: "Ziteng Cheng"
 about:
   template: trestles
-  image: LeonCheng.jpg
+  image: LeonCheng.png
   image-width: 15em
   image-shape: rounded
   links:
@@ -16,9 +16,15 @@ about:
       url: "Ziteng_Cheng_CV.pdf"
     - text: LinkedIn
       icon: linkedin
-      url: "linkedin.com/in/ziteng-cheng-0b2a6627a"
+      url: "https://www.linkedin.com/in/ziteng-cheng-0b2a6627a/"
 ---
 
-**University of California, Los Angeles (UCLA)** — Los Angeles, CA B.S. in Statistics & Data Science • Expected Jun 2026
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+I’m a **B.S. student in Statistics & Data Science at *UCLA* (’26)**.  
+I like building tidy, reproducible workflows in **R** and **SQL**, and turning messy data into clear decisions.
+
+
+You can learn more from my [CV](/Ziteng_Cheng_CV.pdf) or connect on [LinkedIn](https://www.linkedin.com/in/ziteng-cheng-0b2a6627a/).
+

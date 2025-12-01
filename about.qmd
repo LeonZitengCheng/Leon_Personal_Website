@@ -1,9 +1,29 @@
 ---
 title: "About"
+page-layout: article
+toc: false
 ---
 
-About this site
+# Hi, I’m Ziteng Cheng
 
-```{r}
-1 + 1
-```
+I’m a **B.S. student in Statistics & Data Science at UCLA (’26)**.  
+I like building tidy, reproducible workflows in **R**, Python, and SQL, and turning messy data into clear decisions.
+
+
+## Skills (at a glance)
+- **R:** tidyverse, ggplot2, dplyr, tidyr, broom, readr, quarto, rmarkdown
+- **Modeling:** linear/GLM, ANOVA, experimental design, regularization, CV
+- **Data:** cleaning, wrangling, reproducible pipelines, EDA
+- **Viz & Tools:** ggplot2, Tableau, Git/GitHub, Netlify, VS Code/RStudio
+- **Currently learning:** mixed models, A/B testing design, Shiny
+
+
+
+## Contact
+- **Email:** [zitengcheng3@gmail.com](mailto:zitengcheng3@gmail.com)
+- **GitHub:** [@LeonZitengCheng](https://github.com/LeonZitengCheng)
+- **LinkedIn:** [/in/ziteng-cheng-0b2a6627a](https://www.linkedin.com/in/ziteng-cheng-0b2a6627a)
+
+
+
+I’m looking for **Summer ’26** internships and full time jobs in data/analytics. Happy to chat!
