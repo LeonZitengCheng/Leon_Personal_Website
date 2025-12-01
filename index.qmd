@@ -2,7 +2,7 @@
 title: "Ziteng Cheng"
 about:
   template: trestles
-  image: LeonCheng.png
+  image: LeonCheng.jpeg
   image-width: 15em
   image-shape: rounded
   links:
