@@ -12,4 +12,4 @@ subtitle:  Glucose Levels Modeling
 
 -   Conducted statistical analysis using a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases to examine how factors of body influence blood glucose levels.
 
--   Selected the best model that best predict Glucose Levels based on diagnostic plots and significance testing
+-   Selected the best model that best predict Glucose Levels based on diagnostic plots and significance testing.

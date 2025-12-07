@@ -1,4 +1,5 @@
 - source: project
   netlify:
-    - id: 323e838c-adb1-4e91-a7de-be0ded909649
+    - # id: 323e838c-adb1-4e91-a7de-be0ded909649
+      id: 323e838c-adb1-4e91-a7de-be0ded909649
       url: https://leoncheng.netlify.app
